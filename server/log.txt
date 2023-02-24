@@ -1,0 +1,2 @@
+2022-03-30 09:09:57 [1002ms]	31129	brand_new_threa	0	[FATAL]	[root]	test_log.cc:24	fatal msg
+2022-03-30 09:09:57 [1002ms]	31129	brand_new_threa	0	[ERROR]	[root]	test_log.cc:25	err msg
